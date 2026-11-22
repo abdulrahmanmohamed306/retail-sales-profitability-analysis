@@ -70,8 +70,8 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter, Excel.
 ## How to run
 
 ```bash
-git clone https://github.com/abdulrahmanmohamed306/ecommerce-customer-retention-analysis.git
-cd ecommerce-customer-retention-analysis
+git clone https://github.com/abdulrahmanmohamed306/retail-sales-profitability-analysis.git
+cd retail-sales-profitability-analysis
 pip install pandas numpy matplotlib seaborn openpyxl jupyter
 jupyter notebook Sales_Analysis_Mini_Project.ipynb
 ```
