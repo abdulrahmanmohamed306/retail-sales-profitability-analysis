@@ -2,6 +2,8 @@
 
 An end-to-end Python analysis of four years of retail orders (2014–2017): cleaning a raw sales file, engineering profitability fields, and breaking sales and profit down by year, product category, region and customer segment.
 
+![Retail sales and profitability dashboard](dashboard.png)
+
 **Case study:** [my-portfolio-cyan-six-hsft2er28e.vercel.app/projects/retail-sales-profitability](https://my-portfolio-cyan-six-hsft2er28e.vercel.app/projects/retail-sales-profitability)
 
 ## Dataset
@@ -43,6 +45,10 @@ The notebook `Sales_Analysis_Mini_Project.ipynb` covers:
 5. **Statistics:** correlation analysis across the numeric fields.
 6. **Automated KPI summary.**
 7. **Reusable functions** with exception handling, and export of the cleaned dataset.
+
+## Dashboard
+
+`dashboard.png` summarises the whole analysis on one page: headline KPIs, sales and profit by year with the margin trend, sales by category, region and segment, the top five sub-categories by profit, and how each order-performance group contributes to sales versus profit.
 
 ## Charts
 
